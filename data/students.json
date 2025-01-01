@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "saad naanaiy",
+    "age": 19,
+    "program": "AI",
+    "enrolled": true
+  },
+  {
+    "id": 2,
+    "name": "aymen aqil",
+    "age": 19,
+    "program": "APP DEVELOPMENT",
+    "enrolled": false
+  },
+  {
+    "id": 3,
+    "name": "soufyane naanaiy",
+    "age": 8,
+    "program": "WEB DEVELOPMENT",
+    "enrolled": true
+  }
+]
